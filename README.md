@@ -15,6 +15,7 @@ SAMPLING- UCS654<br>
   <li>Stratified Sampling</li>
   <li>Cluster Sampling</li>
   <li>Systematic Sampling</li>
+  <li>Convenience Sampling</li>
 </ol>
 
 <h1>RESULTS</h1>
