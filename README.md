@@ -1,5 +1,5 @@
 SAMPLING- UCS654<br>
-<h2>Saloni Jaroli-3CO24-102103678</h2>
+<h2>priya srivastava 102103534</h2>
 
 <h1>MODELS USED</h1>:
 <ol><li>Logistic Regresstion</li>
